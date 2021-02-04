@@ -1,0 +1,40 @@
+{
+	"rawayah":{
+		"name":"حفص عن عاصم",
+		"page_link":"",
+		"pages_count":604,
+		"is_ayah_empty":1,
+		"is_sura_header_empty":1,
+		"data_db_url":"",
+		"rectangles_db_url":"",
+		"folder_name":"hafs"
+	},
+	"theme":{
+		"splash_logo_url":"",
+		"theme_selected":"",
+		"aya_image":"",
+		"sura_header_image":""
+	},
+	"reciters":[
+		{
+			"id":54,
+			"name":"عبد الباسط عبد الصمد",
+			"image":"",
+			"ayah_url":"",
+			"sura_url":"",
+			"folder_name":"basit"
+		}
+	],
+	"app_info":{
+		"app_name":"Pirelkd",
+		"desc":"dklasdlasddasdasdas",
+		"logo":"",
+		"about_owner":"dasdadasdasdasdad",
+		"social_links":{
+			"facebook":"",
+			"twitter":"",
+			"instgram":"",
+			"website":""
+		}
+	}
+}
